@@ -1,8 +1,8 @@
-🚀 My Experience with Docker and Kubernetes
+🚀 **My Experience with Docker and Kubernetes**
 
 Guestbook Project - A simple web application using Docker and Kubernetes as part of the IBM Skills Developer platform. This hands-on project helped me understand containerization and orchestration concepts.
 
-:star: Key Accomplishments
+:star: **Key Accomplishments**
 
 •	Created **Docker images** for the application to package it into containers.
 
@@ -13,14 +13,14 @@ Guestbook Project - A simple web application using Docker and Kubernetes as part
 •	Set up Kubernetes **Deployments** and Pods to run the application effectively.
 
 
-:chart_with_upwards_trend: Advanced Features
+:chart_with_upwards_trend: **Advanced Features**
 
 •	Applied dynamic **Horizontal Pod Scaling** to ensure the application could handle varying workloads efficiently.
 
 •	Practiced updating the application seamlessly and reverting changes when necessary, using **Rolling Updates and Rollbacks**.
 
 
-To showcase my work, I've attached screenshots of my implementation in the IBM Skills Developer IDE, highlighting each step of the process. This project provided valuable insights into building and deploying scalable applications using Docker and Kubernetes.
+📸: **Screenshots of my implementation in the IBM Skills Developer IDE**
 
 1. Created a Docker image for a Guestbook application written in Go. It employs a multi-stage build process to optimize the final image size and improve security. Docker build command:  _- docker build . -t       us.icr.io/$MY_NAMESPACE/guestbook:v1_.
    ![image](https://github.com/user-attachments/assets/27036b6d-7cee-4743-8aec-516531ed4e16)
