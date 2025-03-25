@@ -1,1 +1,15 @@
-# Docker---Kubernetes
+:whale: My Experience with Docker and Kubernetes :kubernetes:
+:book: Guestbook Project
+I developed a simple web application using Docker and Kubernetes as part of the IBM Skills Developer platform. This hands-on project helped me understand containerization and orchestration concepts.
+
+:star: Key Accomplishments
+:package: Created Docker images for the Guestbook application to package it into containers.
+:control_knobs: Used Kubernetes to deploy and manage these containers with kubectl commands.
+:page_facing_up: Implemented a single web page where users can input text and submit it.
+:rocket: Set up Kubernetes Deployments and Pods to run the application effectively.
+
+:gear: Advanced Features
+:chart_with_upwards_trend: Applied dynamic Horizontal Pod Scaling to ensure the application could handle varying workloads efficiently.
+:arrows_counterclockwise: Practiced updating the application seamlessly and reverting changes when necessary, using Rolling Updates and Rollbacks.
+
+To showcase my work, I've attached screenshots of my implementation in the IBM Skills Developer IDE, highlighting each step of the process. This project provided valuable insights into building and deploying scalable applications using Docker and Kubernetes.
