@@ -20,7 +20,7 @@ Guestbook Project - A simple web application using Docker and Kubernetes as part
 •	Practiced updating the application seamlessly and reverting changes when necessary, using **Rolling Updates and Rollbacks**.
 
 
-📸: **Screenshots of my implementation in the IBM Skills Developer IDE**
+📸 **Screenshots of my implementation in the IBM Skills Developer IDE**
 
 1. Created a Docker image for a Guestbook application written in Go. It employs a multi-stage build process to optimize the final image size and improve security. Docker build command:  _- docker build . -t       us.icr.io/$MY_NAMESPACE/guestbook:v1_.
    ![image](https://github.com/user-attachments/assets/27036b6d-7cee-4743-8aec-516531ed4e16)
