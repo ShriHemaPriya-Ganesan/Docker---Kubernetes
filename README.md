@@ -1,6 +1,6 @@
 🚀 **My Experience with Docker and Kubernetes**
 
-Guestbook Project - A simple web application using Docker and Kubernetes as part of the IBM Skills Developer platform. This hands-on project helped me understand containerization and orchestration concepts.
+Guestbook Project - A simple web application using Docker and Kubernetes as part of the IBM Developer Skills platform. This hands-on project helped me understand containerization and orchestration concepts.
 
 :star: **Key Accomplishments**
 
