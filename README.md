@@ -3,15 +3,22 @@
 Guestbook Project - A simple web application using Docker and Kubernetes as part of the IBM Skills Developer platform. This hands-on project helped me understand containerization and orchestration concepts.
 
 :star: Key Accomplishments
+
 •	Created **Docker images** for the application to package it into containers.
+
 •	Using Kubernetes, deployed and managed these containers with **_kubectl_** commands.
+
 •	Implemented Single web page where users can input text and submit it. 
+
 •	Set up Kubernetes **Deployments** and Pods to run the application effectively.
 
 
 :chart_with_upwards_trend: Advanced Features
+
 •	Applied dynamic **Horizontal Pod Scaling** to ensure the application could handle varying workloads efficiently.
+
 •	Practiced updating the application seamlessly and reverting changes when necessary, using **Rolling Updates and Rollbacks**.
+
 
 To showcase my work, I've attached screenshots of my implementation in the IBM Skills Developer IDE, highlighting each step of the process. This project provided valuable insights into building and deploying scalable applications using Docker and Kubernetes.
 
