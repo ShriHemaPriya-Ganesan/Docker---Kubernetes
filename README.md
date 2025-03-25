@@ -8,7 +8,7 @@ Guestbook Project - A simple web application using Docker and Kubernetes as part
 3.	Implemented Single web page where users can input text and submit it. 
 4.	Set up Kubernetes Deployments and **Pods** to run the application effectively.
 
-:arrows_counterclockwise: Advanced Features
+:chart_with_upwards_trend: Advanced Features
 1. Applied dynamic **Horizontal Pod Scaling** to ensure the application could handle varying workloads efficiently.
 2. Practiced updating the application seamlessly and reverting changes when necessary, using **Rolling Updates and Rollbacks**.
 
